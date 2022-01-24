@@ -2,12 +2,11 @@
 
 ## 1. Poisoning Attacks
 - "Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks" - Shafahi et al. NeurIPS 2018. 
-    - Paper
-    - Code
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Poison%20Frogs!%20Targeted%20Clean-Label%20Poisoning%20Attacks%20on%20Neural%20Networks.pdf)
+    - [Code](https://github.com/ashafahi/inceptionv3-transferLearn-poison)
 - "Understanding Black-box Predictions via Influence Functions" - Koh et al. ICML 2017. 
-    - Paper
-    - Code
-
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Understanding%20Black-box%20Predictions%20via%20Influence%20Functions.pdf)
+    - [Code 1](https://worksheets.codalab.org/worksheets/0x2b314dc3536b482dbba02783a24719fd/), [Code 2](https://worksheets.codalab.org/worksheets/0x2b314dc3536b482dbba02783a24719fd/)
 ## 2. Backdoor Attacks
 
 ## 3. Training-time Defense
