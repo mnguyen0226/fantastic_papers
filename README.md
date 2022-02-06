@@ -24,7 +24,18 @@
 - "Efficient Label Contamination Attacks Against Black-Box Learning Models" - Zhao et al. 2017
     - Paper
     - Code
-
+- "Trojaning Attack on Neural Networks" - Liu et al. 2017
+    - Paper
+    - Code
+- "Label-Consistent Backdoor Attacks" - Turner et al. 2019
+    - Paper
+    - Code
+- "Latent Backdoor Attacks on Deep Neural Networks" - Yao et al. 2019
+    - Paper
+    - Code
+- "BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models" - Salem et al. 2020
+    - Paper
+    - Code
 
 ## 3. Training-time Defense
 - "Deep Partition Aggregation: Provable Defense against General Poisoning Attacks" - Levine et al. 2021
@@ -34,6 +45,12 @@
     - Paper
     - Code
 - "On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping" - Hong et al. 2020
+    - Paper
+    - Code
+- "Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks" - Wang et al. 2019
+    - Paper
+    - Code
+- "Adversarial Unlearning of Backdoors via Implicit Hypergradient" - Zeng et al. 2022
     - Paper
     - Code
 
