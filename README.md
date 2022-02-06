@@ -15,7 +15,16 @@
 - "Rethinking the Backdoor Attacks's Triggers: A Frequency Perspective" - Zeng et al. ICCV 2021
     - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Rethinking%20the%20Backdoor%20Attacks%E2%80%99%20Triggers:%20A%20Frequency%20Perspective.pdf)
     - Code
-- "Efficient Label Contamination Attacks Against Black-Box Learning Models"
+- "Transferable Clean-Label Poisoning Attacks on Deep Neural Nets" - Zhu et al. 2019
+    - Paper
+    - Code
+- "Poisoning Attacks against Support Vector Machines" - Biggio et al. 2013
+    - Paper
+    - Code
+- "Efficient Label Contamination Attacks Against Black-Box Learning Models" - Zhao et al. 2017
+    - Paper
+    - Code
+
 
 ## 3. Training-time Defense
 - "Deep Partition Aggregation: Provable Defense against General Poisoning Attacks" - Levine et al. 2021
