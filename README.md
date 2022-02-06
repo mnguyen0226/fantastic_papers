@@ -16,42 +16,42 @@
     - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Rethinking%20the%20Backdoor%20Attacks%E2%80%99%20Triggers:%20A%20Frequency%20Perspective.pdf)
     - Code
 - "Transferable Clean-Label Poisoning Attacks on Deep Neural Nets" - Zhu et al. 2019
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Transferable%20Clean-Label%20Poisoning%20Attacks%20on%20Deep%20Neural%20Nets.pdf)
     - Code
 - "Poisoning Attacks against Support Vector Machines" - Biggio et al. 2013
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Poisoning%20Attacks%20against%20Support%20Vector%20Machines.pdf)
     - Code
 - "Efficient Label Contamination Attacks Against Black-Box Learning Models" - Zhao et al. 2017
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Efficient%20Label%20Contamination%20Attacks%20Against%20Black-Box%20Learning%20Models.pdf)
     - Code
 - "Trojaning Attack on Neural Networks" - Liu et al. 2017
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Trojaning%20Attack%20on%20Neural%20Networks%20.pdf)
     - Code
 - "Label-Consistent Backdoor Attacks" - Turner et al. 2019
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Label-Consistent%20Backdoor%20Attacks.pdf)
     - Code
 - "Latent Backdoor Attacks on Deep Neural Networks" - Yao et al. 2019
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Latent%20Backdoor%20Attacks%20on%20Deep%20Neural%20Networks.pdf)
     - Code
 - "BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models" - Salem et al. 2020
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/BAAAN:%20Backdoor%20Attacks%20Against%20Autoencoder%20and%20GAN-Based.pdf)
     - Code
 
 ## 3. Training-time Defense
 - "Deep Partition Aggregation: Provable Defense against General Poisoning Attacks" - Levine et al. 2021
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Deep%20Partition%20Aggregation:%20Provable%20Defense%20against%20General%20Poisoning%20Attacks.pdf)
     - Code
 - "DP-InstaHide: Provably Defusing Poisoning and Backdoor Attacks with Differentially Private Data Augmentations" - Borgnia et al. 2021
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/DP-InstaHide:%20Provably%20Defusing%20Poisoning%20and%20Backdoor%20Attacks%20with%20DP-InstaHide:%20Provably%20Defusing%20Poisoning%20and%20Backdoor%20Attacks%20with%20Differentially%20Private%20Data%20Augmentations.pdf)
     - Code
 - "On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping" - Hong et al. 2020
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/On%20the%20Effectiveness%20of%20Mitigating%20Data%20Poisoning%20Attacks%20with%20Gradient%20Shaping.pdf.pdf)
     - Code
 - "Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks" - Wang et al. 2019
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Neural%20Cleanse:%20Identifying%20and%20Mitigating%20Backdoor%20Attacks%20in%20Neural%20Networks.pdf)
     - Code
 - "Adversarial Unlearning of Backdoors via Implicit Hypergradient" - Zeng et al. 2022
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Adversarial%20Unlearning%20of%20Backdoors%20via%20Implicit%20Hypergradient.pdf)
     - Code
 
 ## 4. Data Quality
