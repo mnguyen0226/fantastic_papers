@@ -10,12 +10,11 @@
 
 ## 2. Backdoor Attacks
 - "BadNets: Identifying Vulnerabilities in Machine Learning Model Supply Chain" - Gu et al.
-    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/BadNets:%20Identifying%20Vulnerabilities%20in%20the%20Machine%20Learning%20Model%20Supply%20Chain)
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/BadNets:%20Identifying%20Vulnerabilities%20in%20the%20Machine%20Learning%20Model%20Supply%20Chain.pdf)
     - Code
 - "Rethinking the Backdoor Attacks's Triggers: A Frequency Perspective" - Zeng et al. ICCV 2021
-    - Paper
+    - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Rethinking%20the%20Backdoor%20Attacks%E2%80%99%20Triggers:%20A%20Frequency%20Perspective.pdf)
     - Code
-
 
 ## 3. Training-time Defense
 
