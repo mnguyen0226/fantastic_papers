@@ -17,7 +17,16 @@
     - Code
 
 ## 3. Training-time Defense
-
+- "Deep Partition Aggregation: Provable Defense against General Poisoning Attacks" - Levine et al. 2021
+    - Paper
+    - Code
+- "DP-InstaHide: Provably Defusing Poisoning and Backdoor Attacks with Differentially Private Data Augmentations" - Borgnia et al. 2021
+    - Paper
+    - Code
+- "On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping" - Hong et al. 2020
+    - Paper
+    - Code
+    
 ## 4. Data Quality
 
 ## 5. Data Valuation
