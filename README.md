@@ -15,6 +15,7 @@
 - "Rethinking the Backdoor Attacks's Triggers: A Frequency Perspective" - Zeng et al. ICCV 2021
     - [Paper](https://github.com/mnguyen0226/trustworthy_ml_techniques/blob/main/docs/papers/Rethinking%20the%20Backdoor%20Attacks%E2%80%99%20Triggers:%20A%20Frequency%20Perspective.pdf)
     - Code
+- "Efficient Label Contamination Attacks Against Black-Box Learning Models"
 
 ## 3. Training-time Defense
 - "Deep Partition Aggregation: Provable Defense against General Poisoning Attacks" - Levine et al. 2021
@@ -26,7 +27,7 @@
 - "On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping" - Hong et al. 2020
     - Paper
     - Code
-    
+
 ## 4. Data Quality
 
 ## 5. Data Valuation
