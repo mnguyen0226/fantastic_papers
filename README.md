@@ -1,4 +1,4 @@
-# Fantastic Papers and Where to Find Them :dragon:  :sparkles:
+# Fantastic Papers :page_facing_up: and Where to Find Them :dragon: :sparkles:
 
 ## :four_leaf_clover: Deep Learning Fundamentals
 
