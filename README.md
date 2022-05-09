@@ -70,7 +70,7 @@ Koh et al. | [Stronger data poisoning attacks break data sanitization defenses](
 Chen et al. | [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/abs/1811.03728) | ArXiv 2018 |  |  |  |  |
 Peri et al. | [Deep k-NN Defense Against Clean-Label Data Poisoning Attacks](https://link.springer.com/chapter/10.1007/978-3-030-66415-2_4) | Springer 2021 |  |  |  |  |
 Gao et al. | [STRIP: a defence against trojan attacks on deep neural networks](https://dl.acm.org/doi/abs/10.1145/3359789.3359790?casa_token=IqbL9HJjReAAAAAA:sj_EbbUKG-JMbZh3VclMVzeNl_4R0P2dNOORg0CB268HGH1NPDxq3RAS8qg4NUiolSKXKimtkCMI) | ACM 2019 |  |  |  |  |
-Chou et al. | [SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems](https://arxiv.org/abs/1812.00292) |  |  |  |  |  |
+Chou et al. | [SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems](https://arxiv.org/abs/1812.00292) | ArXiv 2018 |  |  |  |  |
 
 ### 5. Privacy Attacks - Poisoned Data Detection
 
@@ -78,13 +78,14 @@ Chou et al. | [SentiNet: Detecting Localized Universal Attacks Against Deep Lear
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
-
+Fredrikson et al. | [Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/fredrikson_matthew) | USENIX Security Symposium 2014 |  |  |  |  |
+Fredrikson et al. | [Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://dl.acm.org/doi/abs/10.1145/2810103.2813677) | ACM 2015 |  |  |  |  |
+Zhang & Jia et al. | [The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.html) | CVPR 2020 |  |  |  |  |
+Yang et al. | [Adversarial Neural Network Inversion via Auxiliary Knowledge Alignment](https://arxiv.org/abs/1902.08552) | ArXiv 2019 |  |  |  |  |
+Shokri et al. | [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/abs/1610.05820) | ArXiv 2016 |  |  |  |  |
+Nasr et al. | [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/abstract/document/8835245?casa_token=xEUKdV-QynIAAAAA:JKKNSAymt3rR6vcBBnG1mAeyXXjZEd6wjhwtYEygP2wK4_1ukP8m18oPKU2cER8Bk3IjobwBPA) | IEEE 2019 |  |  |  |  |
+Carlini et al. | [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://www.usenix.org/conference/usenixsecurity19/presentation/carlini) | USENIX Security Symposium 2019 |  |  |  |  |
+Carlini et al. | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) | USENIX Security Symposium 2022 |  |  |  |  |
 
 ### 6. Different Privacy
 
