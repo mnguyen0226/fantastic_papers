@@ -1,6 +1,6 @@
 # Fantastic Papers and Where to Find Them
 
-## Deep Learning Fundamentals
+## :four_leaf_clover: Deep Learning Fundamentals
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
@@ -98,7 +98,7 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
 
-## Synthetic Data Generation
+## Synthetic Time-Series Data Generation
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
