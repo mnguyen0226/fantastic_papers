@@ -1,4 +1,4 @@
-# Fantastic Papers and Where to Find Them
+# Fantastic Papers and Where to Find Them :dragon:  :sparkles:
 
 ## :four_leaf_clover: Deep Learning Fundamentals
 
@@ -6,7 +6,7 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
 
-## Trustworthy Machine Learning 
+## :four_leaf_clover: Trustworthy Machine Learning 
 ### 1. Training-time Attacks - Poisoning Attacks
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
@@ -98,13 +98,13 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
 
-## Synthetic Time-Series Data Generation
+## :four_leaf_clover: Synthetic Time-Series Data Generation
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
 
-## Software Engineering
+## :four_leaf_clover: Software Engineering
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
