@@ -289,7 +289,7 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 * [Awesome Deep Trading](https://github.com/firmai/awesome-deep-trading)
 * [Awesome AI in Finance](https://github.com/firmai/awesome-ai-in-finance)
 * [Awesome Quant](https://github.com/firmai/awesome-quant)
-* [List of Van Der Shaar Lab](https://github.com/firmai/tsgan)
+* [List of Papers from Dr. Van Der Shaar Lab](https://github.com/firmai/tsgan)
 * List of GNN: [Lectures](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html), [Papers](https://pytorch-geometric.readthedocs.io/en/latest/notes/resources.html)
 * [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers)
 * [Deep RL Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
