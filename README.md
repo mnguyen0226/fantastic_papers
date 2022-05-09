@@ -93,9 +93,9 @@ Carlini et al. | [Extracting Training Data from Large Language Models](https://w
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
 Aaron Roth and Cynthia Dwork | [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) | University of Pennsylvania's Book |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
+Abadi et al. | [Deep Learning with Differential Privacy](https://dl.acm.org/doi/abs/10.1145/2976749.2978318?casa_token=04AV26T6VT4AAAAA:LjK85DNm0rJ-lk0S2VDwtmAnHuIBVyKMYeU89wucbz6abzM8tDygrgWjI1ZzdQNUEvcKpW4nEMeb) | ACM 2016 |  |  |  |  |
+Papernot et al. | [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755) | ArXiv 2016 |  |  |  |  |
+Papernot et al. | [Scalable Private Learning with PATE](https://arxiv.org/abs/1802.08908) | ArXiv 2018 |  |  |  |  |
 
 ### 7. Robust Mean Estimation in High Dimensions
 
