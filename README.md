@@ -1,8 +1,12 @@
 # Fantastic Papers :page_facing_up: and Where to Find Them :sparkles:
 
 * How to Read Research Papers by [Andrew Ng](https://www.youtube.com/watch?v=733m6qBH-jI&t=1092s&ab_channel=StanfordOnline)
-* From Paper We Love:
-  * 
+* Awesome Guide From [Paper We Love](https://github.com/papers-we-love/papers-we-love):
+  * [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+  * [Advice on Reading Academic Papers](https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+  * [How to Read and Understand an Scientific Paper](https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+  * [Should I Read Papers?](https://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
+  * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA&ab_channel=NextDayVideo)
 
 ## :four_leaf_clover: Graph Neural Networks
 
@@ -145,7 +149,7 @@ Abbe et al. | [Poly-time universality and limitations of deep learning](https://
 
 ### 6. Privacy Attacks - Poisoned Data Detection
 
-*Awesome ML Privacy Attacks Deep-dive: [Github](https://github.com/stratosphereips/awesome-ml-privacy-attacks).
+* Awesome ML Privacy Attacks Deep-dive: [Github](https://github.com/stratosphereips/awesome-ml-privacy-attacks).
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
@@ -160,7 +164,7 @@ Carlini et al. | [Extracting Training Data from Large Language Models](https://w
 
 ### 7. Differential Privacy
 
-*Awesome ML Differential Privacy Deep-dive: [Github](https://github.com/Billy1900/Awesome-Differential-Privacy).
+* Awesome ML Differential Privacy Deep-dive: [Github](https://github.com/Billy1900/Awesome-Differential-Privacy).
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
@@ -171,7 +175,7 @@ Papernot et al. | [Scalable Private Learning with PATE](https://arxiv.org/abs/18
 
 ### 8. Federated Learning
 
-*Awesome ML Federated Learning Deep-dive: [Github](https://github.com/poga/awesome-federated-learning).
+* Awesome ML Federated Learning Deep-dive: [Github](https://github.com/poga/awesome-federated-learning).
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
@@ -219,7 +223,6 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 Lecuyer et al. | [Certified Robustness to Adversarial Examples with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/8835364?casa_token=BgsxdAlduEgAAAAA:cQdNBInOvS-ZeMZcadgtG1e0pArr6R-OWBnX0aeyuRMbqjMBIvNuCnAcnBaRjnBybl-TEN86WA) | IEEE 2019 |  |  |  |  |
 Li et al. | [Certified Adversarial Robustness with Additive Noise](https://proceedings.neurips.cc/paper/2019/hash/335cd1b90bfa4ee70b39d08a4ae0cf2d-Abstract.html) | NeurIPS 2019 |  |  |  |  |
 
-
 ### 11. Uncertainty Calibration
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
@@ -262,31 +265,35 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 
 ## :four_leaf_clover: Software Engineering
 
+* [Paper We Love (PWL) Conference](https://pwlconf.org/)
+* [List of SWE Conferences](https://research.com/conference-rankings/computer-science/software-programming)
+
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
 
 ## Other Awesome Lists
-- [Paper We Love](https://github.com/papers-we-love/papers-we-love)
-- [Dartmouth Deep Learning Papers](https://www.cs.dartmouth.edu/~lorenzo/teaching/cs189/readinglist.html)
-- [Deep Learning Reading List](http://jmozah.github.io/links/)
-- [Neural Networks Paper](https://github.com/robertsdionne/neural-network-papers)
-- [Deep Learning Bibliography](https://github.com/memkite/DeepLearningBibliography)
-- [Deep Learning for NLP](https://github.com/andrewt3000/DL4NLP)
-- [List of Speech and NLP](https://joshdotai.medium.com/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
-- [100 Must-read Papers on NLP](https://github.com/mhagiwara/100-nlp-papers)
-- [Awesome RNN Papers](https://github.com/kjw0612/awesome-rnn)
-- [Awesome Deep Learning Papers](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [Lists of Optimization Techniques Papers](https://paperswithcode.com/methods/category/stochastic-optimization)
-- [Awesome GAN](https://github.com/nightrome/really-awesome-gan)
-- [A School for all Seasons on Trustworthy Machine Learning](https://trustworthy-machine-learning.github.io/)
-- [Awesome Deep Trading](https://github.com/firmai/awesome-deep-trading)
-- [Awesome AI in Finance](https://github.com/firmai/awesome-ai-in-finance)
-- [Awesome Quant](https://github.com/firmai/awesome-quant)
-- [List of Van Der Shaar Lab](https://github.com/firmai/tsgan)
-- List of GNN: [Lectures](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html), [Papers](https://pytorch-geometric.readthedocs.io/en/latest/notes/resources.html)
-- [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers)
-- [Deep RL Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
-- [Awesome RL Papers](https://github.com/aikorea/awesome-rl)
-- [Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
-- [List of Synthetic Data Generation Methods](https://paperswithcode.com/task/synthetic-data-generation)
+* [Paper We Love](https://github.com/papers-we-love/papers-we-love)
+* [Dartmouth Deep Learning Papers](https://www.cs.dartmouth.edu/~lorenzo/teaching/cs189/readinglist.html)
+* [Deep Learning Reading List](http://jmozah.github.io/links/)
+* [Neural Networks Paper](https://github.com/robertsdionne/neural-network-papers)
+* [Deep Learning Bibliography](https://github.com/memkite/DeepLearningBibliography)
+* [Deep Learning for NLP](https://github.com/andrewt3000/DL4NLP)
+* [List of Speech and NLP](https://joshdotai.medium.com/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
+* [100 Must-read Papers on NLP](https://github.com/mhagiwara/100-nlp-papers)
+* [Awesome RNN Papers](https://github.com/kjw0612/awesome-rnn)
+* [Awesome Deep Learning Papers](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Lists of Optimization Techniques Papers](https://paperswithcode.com/methods/category/stochastic-optimization)
+* [Awesome GAN](https://github.com/nightrome/really-awesome-gan)
+* [A School for all Seasons on Trustworthy Machine Learning](https://trustworthy-machine-learning.github.io/)
+* [Awesome Deep Trading](https://github.com/firmai/awesome-deep-trading)
+* [Awesome AI in Finance](https://github.com/firmai/awesome-ai-in-finance)
+* [Awesome Quant](https://github.com/firmai/awesome-quant)
+* [List of Van Der Shaar Lab](https://github.com/firmai/tsgan)
+* List of GNN: [Lectures](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html), [Papers](https://pytorch-geometric.readthedocs.io/en/latest/notes/resources.html)
+* [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers)
+* [Deep RL Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+* [Awesome RL Papers](https://github.com/aikorea/awesome-rl)
+* [Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
+* [List of Synthetic Data Generation Methods](https://paperswithcode.com/task/synthetic-data-generation)
+* [Paper We Love (PWL) Conference](https://pwlconf.org/)
