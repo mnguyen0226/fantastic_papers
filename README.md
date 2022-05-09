@@ -1,26 +1,34 @@
 # Fantastic Papers :page_facing_up: and Where to Find Them :sparkles:
 
 ## :four_leaf_clover: Graph Neural Networks
+
+* Stanford: [Lectures](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&ab_channel=StanfordOnline), [Website](http://web.stanford.edu/class/cs224w/)
+* PyG: [Lectures](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
+
 ### 1. Architectures
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Veličković et al. | [Graph Attention Networks](https://arxiv.org/abs/1710.10903) | ArXiv 2017 |  |  |  |  |
+Kipf et al. | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) | ArXiv 2016 |  |  |  |  |
+Hamilton et al. | [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216) | ArXiv 2017 |  |  |  |  |
+Rossi et al. | [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/abs/2006.10637) | ArXiv 2020 |  |  |  |  |
+Chami et al. | [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) | ArXiv 2019 |  |  |  |  |
 
 ### 2. Evaluations
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Sanchez-Lengeling et al. | [Evaluating Attribution for Graph Neural Networks](https://papers.nips.cc/paper/2020/hash/417fbbf2e9d5a28a855a11894b2e795a-Abstract.html) | NeurIPS 2020 |  |  |  |  |
 
 ## :four_leaf_clover: Sequential Models
 ### 1. Architectures
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Vaswani et al. | [Attention is All you Need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | NeurIPS 2017 |  |  |  |  |
 
 ### 2. Evaluations
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Chefer et al. | [Transformer Interpretability Beyond Attention Visualization](https://openaccess.thecvf.com/content/CVPR2021/html/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.html) | CVPR 2021 |  |  |  |  |
 
 ## :four_leaf_clover: Synthetic Time-Series Data Generation
 
@@ -233,7 +241,7 @@ Batarseh et al. | [A survey on artificial intelligence assurance](https://journa
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Kingma et al. | [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) | ArXiv 2014 |  |  |  |  |
 
 ## :four_leaf_clover: Statistical Methods & Data Analytics 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
@@ -251,7 +259,7 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
 
-## Other Lists:
+## Other Awesome Lists
 - [Dartmouth Deep Learning Papers](https://www.cs.dartmouth.edu/~lorenzo/teaching/cs189/readinglist.html)
 - [Deep Learning Reading List](http://jmozah.github.io/links/)
 - [Neural Networks Paper](https://github.com/robertsdionne/neural-network-papers)
@@ -272,3 +280,4 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 - [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers)
 - [Deep RL Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
 - [Awesome RL Papers](https://github.com/aikorea/awesome-rl)
+- [List of Synthetic Data Generation Methods](https://paperswithcode.com/task/synthetic-data-generation)
