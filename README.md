@@ -111,22 +111,34 @@ Diakonikolas et al. | [Sever: A Robust Meta-Algorithm for Stochastic Optimizatio
 Tran et al. | [Spectral Signatures in Backdoor Attacks](https://proceedings.neurips.cc/paper/2018/hash/280cf18baf4311c92aa5a042336587d3-Abstract.html) | NeurIPS 2018 |  |  |  |  |
 Abbe et al. | [Poly-time universality and limitations of deep learning](https://arxiv.org/abs/2001.02992) | ArXiv 2020 |  |  |  |  |
 
-### 8. Evasion Attack
+### 8. Evasion Attacks & Defenses
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Akhtar et al. | [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/abstract/document/8294186) | IEEE 2018 |  |  |  |  |
+Athalye et al. | [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](http://proceedings.mlr.press/v80/athalye18a.html) | PMLR 2018 |  |  |  |  |
+Dhillon et al. | [Stochastic Activation Pruning for Robust Adversarial Defense](https://arxiv.org/abs/1803.01442) | ArXiv 2018 |  |  |  |  |
+Schmidt et al. | [Adversarially Robust Generalization Requires More Data](https://proceedings.neurips.cc/paper/2018/hash/f708f064faaf32a43e4d3c784e6af9ea-Abstract.html) | NeurIPS 2018 |  |  |  |  |
+Yin et al. | [Rademacher Complexity for Adversarially Robust Generalization](http://proceedings.mlr.press/v97/yin19b.html) | PMLR 2019 |  |  |  |  |
+Tsipras et al. | [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152) | ArXiv 2018 |  |  |  |  |
 
 ### 9. Test-Time Defenses
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
 
 ### 10. Certified Defenses
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
  |  |  |  |  |  |  |
 
 ### 11. Federated Learning
