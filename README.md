@@ -135,11 +135,8 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
+Lecuyer et al. | [Certified Robustness to Adversarial Examples with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/8835364?casa_token=BgsxdAlduEgAAAAA:cQdNBInOvS-ZeMZcadgtG1e0pArr6R-OWBnX0aeyuRMbqjMBIvNuCnAcnBaRjnBybl-TEN86WA) | IEEE 2019 |  |  |  |  |
+Li et al. | [Certified Adversarial Robustness with Additive Noise](https://proceedings.neurips.cc/paper/2019/hash/335cd1b90bfa4ee70b39d08a4ae0cf2d-Abstract.html) | NeurIPS 2019 |  |  |  |  |
 
 ### 11. Federated Learning
 
@@ -149,7 +146,7 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
 McMahan et al. | [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a.html) | PMLR 2017 |  |  |  |  |
 Konečný et al. | [Federated Optimization:Distributed Optimization Beyond the Datacenter](https://arxiv.org/abs/1511.03575) | ArXiv 2015 |  |  |  |  |
-Stich et al. | Local SGD Converges Fast and Communicates Little](https://arxiv.org/abs/1805.09767) | ICLR 2018 |  |  |  |  |
+Stich et al. | [Local SGD Converges Fast and Communicates Little](https://arxiv.org/abs/1805.09767) | ICLR 2018 |  |  |  |  |
 Li et al. | [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189) | ICLR 2020 |  |  |  |  |
 Shamir et al. | [Communication-Efficient Distributed Optimization using an Approximate Newton-type Method](https://proceedings.mlr.press/v32/shamir14.html) | PMLR 2014 |  |  |  |  |
 Wang et al. | [GIANT: Globally Improved Approximate Newton Method for Distributed Optimization](https://proceedings.neurips.cc/paper/2018/hash/dabd8d2ce74e782c65a973ef76fd540b-Abstract.html) | NeurIPS 2018 |  |  |  |  |
