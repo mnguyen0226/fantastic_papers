@@ -89,6 +89,7 @@ Carlini et al. | [The Secret Sharer: Evaluating and Testing Unintended Memorizat
 Carlini et al. | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) | USENIX Security Symposium 2022 |  |  |  |  |
 
 ### 6. Differential Privacy
+
 *Awesome ML Differential Privacy Deep-dive: [Github](https://github.com/Billy1900/Awesome-Differential-Privacy).
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
@@ -130,14 +131,45 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 
 ### 11. Federated Learning
 
+*Awesome ML Federated Learning Deep-dive: [Github](https://github.com/poga/awesome-federated-learning).
+
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+McMahan et al. | [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a.html) | PMLR 2017 |  |  |  |  |
+Konečný et al. | [Federated Optimization:Distributed Optimization Beyond the Datacenter](https://arxiv.org/abs/1511.03575) | ArXiv 2015 |  |  |  |  |
+Stich et al. | Local SGD Converges Fast and Communicates Little](https://arxiv.org/abs/1805.09767) | ICLR 2018 |  |  |  |  |
+Li et al. | [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189) | ICLR 2020 |  |  |  |  |
+Shamir et al. | [Communication-Efficient Distributed Optimization using an Approximate Newton-type Method](https://proceedings.mlr.press/v32/shamir14.html) | PMLR 2014 |  |  |  |  |
+Wang et al. | [GIANT: Globally Improved Approximate Newton Method for Distributed Optimization](https://proceedings.neurips.cc/paper/2018/hash/dabd8d2ce74e782c65a973ef76fd540b-Abstract.html) | NeurIPS 2018 |  |  |  |  |
+Mahajan et al. | [An efficient distributed learning algorithm based on effective local functional approximations](https://arxiv.org/abs/1310.8418) | ArXiv 2013 |  |  |  |  |
+Smith et al. | [CoCoA: A General Framework for Communication-Efficient Distributed Optimization](https://www.jmlr.org/papers/volume18/16-512/16-512.pdf) | JMLR 2018 |  |  |  |  |
+Zhang et al. | [Communication-Efficient Algorithms for Statistical Optimization](https://proceedings.neurips.cc/paper/2012/hash/e7f8a7fb0b77bcb3b283af5be021448f-Abstract.html) | NeurIPS 2013 |  |  |  |  |
+Geiping et al. | [Inverting Gradients - How easy is it to break privacy in federated learning?](https://proceedings.neurips.cc/paper/2020/hash/c4ede56bbd98819ae6112b20ac6bf145-Abstract.html) | NeurIPS 2020 |  |  |  |  |
+Agarwal et al. | [cpSGD: Communication-efficient and differentially-private distributed SGD](https://proceedings.neurips.cc/paper/2018/hash/21ce689121e39821d07d04faab328370-Abstract.html) | NeurIPS 2018 |  |  |  |  |
+Bagdasaryan et al. | [How To Backdoor Federated Learning](https://proceedings.mlr.press/v108/bagdasaryan20a.html) | PMLR 2020 |  |  |  |  |
+Bhagoji et al. | [Analyzing Federated Learning through an Adversarial Lens](https://proceedings.mlr.press/v97/bhagoji19a.html) | PMLR 2019 |  |  |  |  |
+Tolpegin et al. | [Data Poisoning Attacks Against Federated Learning Systems](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_24) | Springer 2020 |  |  |  |  |
+Sun et al. | [Data Poisoning Attacks on Federated Machine Learning](https://ieeexplore.ieee.org/abstract/document/9618642?casa_token=nLXXx0riOtoAAAAA:gBTZfA-5ZvPikVGI-ksdtlYAbT3d2-WzCeyNTB086f_jHqV0rJVU9l2NrJPFJeUDltA2XbZzFw) | IEEE 2021 |  |  |  |  |
+Fung et al. | [Mitigating Sybils in Federated Learning Poisoning](https://arxiv.org/abs/1808.04866) | ArXiv 2018 |  |  |  |  |
+Li et al. | [Learning to Detect Malicious Clients for Robust Federated Learning](https://arxiv.org/abs/2002.00211) | ArXiv 2020 |  |  |  |  |
+Blanchard et al. | [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://proceedings.neurips.cc/paper/2017/hash/f4b9ec30ad9f68f89b29639786cb62ef-Abstract.html) | NeurIPS 2017 |  |  |  |  |
+Mhamdi et al. | [The Hidden Vulnerability of Distributed Learning in Byzantium](https://proceedings.mlr.press/v80/mhamdi18a.html) | PMLR 2018 |  |  |  |  |
+Yin et al. | [Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates](https://proceedings.mlr.press/v80/yin18a) | PMLR 2018 |  |  |  |  |
+Chen et al. | [Distributed Statistical Machine Learning in Adversarial Settings: Byzantine Gradient Descent](https://arxiv.org/abs/1705.05491) | ArXiv 2017 |  |  |  |  |
+Fu et al. | [Attack-Resistant Federated Learning with Residual-based Reweighting](https://arxiv.org/abs/1912.11464) | ArXiv 2019 |  |  |  |  |
+Sun et al. | [Can You Really Backdoor Federated Learning?](https://arxiv.org/abs/1911.07963) | ArXiv 2019 |  |  |  |  |
+Andreina et al. | [BaFFLe: Backdoor Detection via Feedback-based Federated Learning](https://ieeexplore.ieee.org/abstract/document/9546463?casa_token=rTpaToMQfwQAAAAA:_w-HPkRDko2IciGmQM4XB31OVqgT-6mAYV6znvDhYZVZwpQYCg2333nCrqrV5WyMQ7KmeMV5rQ) | IEEE 2021 |  |  |  |  |
+Wu et al. | [Mitigating Backdoor Attacks in Federated Learning](https://arxiv.org/abs/2011.01767) | ArXiv 2021 |  |  |  |  |
 
 ### 12. Uncertainty Calibration
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
  |  |  |  |  |  |  |
 
 ### 13. AI Assurance
