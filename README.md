@@ -61,7 +61,11 @@ Borgnia et al. | [Strong Data Augmentation Sanitizes Poisoning and Backdoor Atta
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Jia et al. | [Towards Efficient Data Valuation Based on the Shapley Value](https://proceedings.mlr.press/v89/jia19a.html) | PMLR 2019 |  |  |  |  |
+Jia et al. | [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619) | VLDB 2019 |  |  |  |  |
+Ghorbani et al. | [Data Shapley: Equitable Valuation of Data for Machine Learning](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=4390) | ICML 2019 |  |  |  |  |
+Yoon et al. | [Data Valuation using Reinforcement Learning](http://proceedings.mlr.press/v119/yoon20a.html) | PMLR 2020 |  |  |  |  |
+Jia et al. | [Scalability vs. Utility: Do We Have To Sacrifice One for the Other in Data Importance Quantification?](https://openaccess.thecvf.com/content/CVPR2021/html/Jia_Scalability_vs._Utility_Do_We_Have_To_Sacrifice_One_for_CVPR_2021_paper.html) | CVPR 2021 |  |  |  |  |
 
 ### 5. Privacy Attacks
 
@@ -73,13 +77,18 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
+Aaron Roth and Cynthia Dwork | [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) | University of Pennsylvania's Book |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
  |  |  |  |  |  |  |
 
 ### 7. Robust Estimation
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Zico Kolter and Aleksander Madry | [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/) | NeurIPS 2018 |  |  |  |  |
+Jerry Li | [Principled Approaches to Robust Machine Learning and Beyond](https://jerryzli.github.io/papers/phd-thesis.pdf) | MIT's Ph.D Thesis 2018 |  |  |  |  |
+Jacob Steinhardt | [Robust Learning: Information Theory and Algorithms](https://www.stat.berkeley.edu/~jsteinhardt/pubs/steinhardt2018thesis.pdf) | Stanford's Ph.D Thesis 2018 |  |  |  |  |
 
 ### 8. Evasion Attack
 
