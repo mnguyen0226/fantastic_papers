@@ -1,5 +1,9 @@
 # Fantastic Papers :page_facing_up: and Where to Find Them :sparkles:
 
+* How to Read Research Papers by [Andrew Ng](https://www.youtube.com/watch?v=733m6qBH-jI&t=1092s&ab_channel=StanfordOnline)
+* From Paper We Love:
+  * 
+
 ## :four_leaf_clover: Graph Neural Networks
 
 * Stanford: [Lectures](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&ab_channel=StanfordOnline), [Website](http://web.stanford.edu/class/cs224w/)
@@ -246,9 +250,12 @@ Kingma et al. | [Adam: A Method for Stochastic Optimization](https://arxiv.org/a
 ## :four_leaf_clover: Statistical Methods & Data Analytics 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Leys et al. | [Detecting multivariate outliers: Use a robust variant of the Mahalanobis distance](https://www.sciencedirect.com/science/article/pii/S0022103117302123?casa_token=kwb8CNYxogEAAAAA:lLzNB1LvVzgUFNaWSDZHGJfwJyfb_2kZcoU8Jua1TALOq4dJXn18IdsZ43A046auw803XghETA) | Elsevier 2018 |  |  |  |  |
 
 ## :four_leaf_clover: Reinforcement Learning
+
+* [Awesome RL Papers](https://github.com/aikorea/awesome-rl)
+
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
@@ -260,6 +267,7 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
  |  |  |  |  |  |  |
 
 ## Other Awesome Lists
+- [Paper We Love](https://github.com/papers-we-love/papers-we-love)
 - [Dartmouth Deep Learning Papers](https://www.cs.dartmouth.edu/~lorenzo/teaching/cs189/readinglist.html)
 - [Deep Learning Reading List](http://jmozah.github.io/links/)
 - [Neural Networks Paper](https://github.com/robertsdionne/neural-network-papers)
@@ -280,4 +288,5 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 - [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers)
 - [Deep RL Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
 - [Awesome RL Papers](https://github.com/aikorea/awesome-rl)
+- [Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
 - [List of Synthetic Data Generation Methods](https://paperswithcode.com/task/synthetic-data-generation)
