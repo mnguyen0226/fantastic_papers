@@ -1,6 +1,12 @@
-# Fantastic Papers :page_facing_up: and Where to Find Them :dragon: :sparkles:
+# Fantastic Papers :page_facing_up: and Where to Find Them :sparkles:
 
 ## :four_leaf_clover: Deep Learning Fundamentals
+
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+
+## :four_leaf_clover: Synthetic Time-Series Data Generation
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
@@ -38,11 +44,18 @@ Liu et al. | [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/c
 Turner et al. | [Metropolis-Hastings Generative Adversarial Networks](https://proceedings.mlr.press/v97/turner19a.html) | PMLR 2019 |  |  |  |  |
 Saha et al. | [Hidden Trigger Backdoor Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/6871) | AAAI 2020 |  |  |  |  |
 
-### 3. Training-time Defenses
+### 3. Training-time Data Poisoning Defenses
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Wang et al | [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://ieeexplore.ieee.org/abstract/document/8835365?casa_token=czPHUrjctSgAAAAA:8HwtzpqgYvZ8lwtJAEltcf1YQ2A5rDB0fycsCRkv5JyAW8I03f0TyIgeH_0t2F9-uJkrrsEkKw) | IEEE 2019 |  |  |  |  |
+Chen et al. | [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](http://www.aceslab.org/sites/default/files/DeepInspect.pdf) | IJCAI 2019 |  |  |  |  |
+Guo et al. | [TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.org/abs/1908.01763) | ArXiV 2019 |  |  |  |  |
+Chen et al. | [Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting](https://arxiv.org/abs/2004.12651) | ArXiv 2020 |  |  |  |  |
+Zeng et al. | [Adversarial Unlearning of Backdoors via Implicit Hypergradient](https://openreview.net/forum?id=MeeQkFYVbzW) | ICLR 2022 |  |  |  |  |
+Hong et al. | [On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping](https://arxiv.org/abs/2002.11497) | ArXiv 2020 |  |  |  |  |
+Ma et al. | [Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics](https://ieeexplore.ieee.org/abstract/document/8812988?casa_token=Fsw5s8_xaYEAAAAA:AK1kks88Bj-xRJn1Xq6aL4IIWxrF1DtuYCb-FaEAMpnMSPJDcH2274DgH4Y2AZZ5OhZZLQ6JBA) | IEEE 2019 |  |  |  |  |
+Borgnia et al. | [Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff](https://ieeexplore.ieee.org/abstract/document/9414862?casa_token=lERRhmQ15WQAAAAA:VBQJNGUHR6bTSN6xy46bS8kKkm2iTAIJWgU22QmWTq3fCJ1XG023wCksKybEnsOtyud2UXO4QA) | IEEE 2021 |  |  |  |  |
 
 ### 4. Data Quality & Data Valuation
 
@@ -98,8 +111,22 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
 
-## :four_leaf_clover: Synthetic Time-Series Data Generation
+## :four_leaf_clover: Statistical Methods & Data Analytics 
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
 
+## :four_leaf_clover: Representative Learning
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+
+## :four_leaf_clover: Sequential Learning
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+
+## :four_leaf_clover: Reinforcement Learning
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
