@@ -56,6 +56,7 @@ Zeng et al. | [Adversarial Unlearning of Backdoors via Implicit Hypergradient](h
 Hong et al. | [On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping](https://arxiv.org/abs/2002.11497) | ArXiv 2020 |  |  |  |  |
 Ma et al. | [Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics](https://ieeexplore.ieee.org/abstract/document/8812988?casa_token=Fsw5s8_xaYEAAAAA:AK1kks88Bj-xRJn1Xq6aL4IIWxrF1DtuYCb-FaEAMpnMSPJDcH2274DgH4Y2AZZ5OhZZLQ6JBA) | IEEE 2019 |  |  |  |  |
 Borgnia et al. | [Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff](https://ieeexplore.ieee.org/abstract/document/9414862?casa_token=lERRhmQ15WQAAAAA:VBQJNGUHR6bTSN6xy46bS8kKkm2iTAIJWgU22QmWTq3fCJ1XG023wCksKybEnsOtyud2UXO4QA) | IEEE 2021 |  |  |  |  |
+Borgnia et al. | [DP-InstaHide: Provably Defusing Poisoning and Backdoor Attacks with Differentially Private Data Augmentations](https://arxiv.org/abs/2103.02079) | ArXiv 2021 |  |  |  |  |
 
 ### 4. Data Quality, Data Valuation, and Poisoned Data Detection
 
