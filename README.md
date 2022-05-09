@@ -82,13 +82,17 @@ Aaron Roth and Cynthia Dwork | [The Algorithmic Foundations of Differential Priv
  |  |  |  |  |  |  |
  |  |  |  |  |  |  |
 
-### 7. Robust Estimation
+### 7. Robust Mean Estimation in High Dimensions
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
 Zico Kolter and Aleksander Madry | [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/) | NeurIPS 2018 |  |  |  |  |
 Jerry Li | [Principled Approaches to Robust Machine Learning and Beyond](https://jerryzli.github.io/papers/phd-thesis.pdf) | MIT's Ph.D Thesis 2018 |  |  |  |  |
 Jacob Steinhardt | [Robust Learning: Information Theory and Algorithms](https://www.stat.berkeley.edu/~jsteinhardt/pubs/steinhardt2018thesis.pdf) | Stanford's Ph.D Thesis 2018 |  |  |  |  |
+Zhu et al. | [When does the Tukey Median work?](https://ieeexplore.ieee.org/abstract/document/9173995?casa_token=xAEyUler0lUAAAAA:c5jKyb5HnzURk8GKGU66h4jg_L_Az8ZwVg7lpxWd6mtrfnwGrASSqhNLvkMQ00WIdC0CqI0_-g) | IEEE 2020 |  |  |  |  |
+Diakonikolas et al. | [Sever: A Robust Meta-Algorithm for Stochastic Optimization](https://proceedings.mlr.press/v97/diakonikolas19a.html) | PMLR 2019 |  |  |  |  |
+Tran et al. | [Spectral Signatures in Backdoor Attacks](https://proceedings.neurips.cc/paper/2018/hash/280cf18baf4311c92aa5a042336587d3-Abstract.html) | NeurIPS 2018 |  |  |  |  |
+Abbe et al. | [Poly-time universality and limitations of deep learning](https://arxiv.org/abs/2001.02992) | ArXiv 2020 |  |  |  |  |
 
 ### 8. Evasion Attack
 
