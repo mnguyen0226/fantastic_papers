@@ -207,8 +207,6 @@ Batarseh et al. | [A survey on artificial intelligence assurance](https://journa
 
 ## :four_leaf_clover: Optimization Techniques
 
-*[List](https://paperswithcode.com/methods/category/stochastic-optimization) of optimization techniques to read.
-
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
@@ -230,13 +228,13 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
  |  |  |  |  |  |  |
 
 ## Other Lists:
-[Dartmouth Deep Learning Papers](https://www.cs.dartmouth.edu/~lorenzo/teaching/cs189/readinglist.html)
-[Deep Learning Reading List](http://jmozah.github.io/links/)
-[Neural Networks Paper](https://github.com/robertsdionne/neural-network-papers)
-[Deep Learning Bibliography](https://github.com/memkite/DeepLearningBibliography)
-[Deep Learning for NLP](https://github.com/andrewt3000/DL4NLP)
-[List of Speech and NLP](https://joshdotai.medium.com/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
-[Awesome RNN Papers](https://github.com/kjw0612/awesome-rnn)
-[Awesome Deep Learning Papers](https://github.com/ChristosChristofidis/awesome-deep-learning)
-[Lists of Optimization Techniques](https://paperswithcode.com/methods/category/stochastic-optimization)
-[Awesome GAN](https://github.com/nightrome/really-awesome-gan)
+- [Dartmouth Deep Learning Papers](https://www.cs.dartmouth.edu/~lorenzo/teaching/cs189/readinglist.html)
+- [Deep Learning Reading List](http://jmozah.github.io/links/)
+- [Neural Networks Paper](https://github.com/robertsdionne/neural-network-papers)
+- [Deep Learning Bibliography](https://github.com/memkite/DeepLearningBibliography)
+- [Deep Learning for NLP](https://github.com/andrewt3000/DL4NLP)
+- [List of Speech and NLP](https://joshdotai.medium.com/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
+- [Awesome RNN Papers](https://github.com/kjw0612/awesome-rnn)
+- [Awesome Deep Learning Papers](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Lists of Optimization Techniques](https://paperswithcode.com/methods/category/stochastic-optimization)
+- [Awesome GAN](https://github.com/nightrome/really-awesome-gan)
