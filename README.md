@@ -27,13 +27,36 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 ### 1. Architectures
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
+Lin et al. | [Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions](https://dl.acm.org/doi/abs/10.1145/3419394.3423643) | ACM 2020 |  |  |  |  |
 Yoon et al. | [Time-series Generative Adversarial Networks](https://proceedings.neurips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html) | NeurIPS 2019 |  |  |  |  |
 Alaa et al. | [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA) | ICLR 2021 |  |  |  |  |
+Jeha et al. | [PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series](https://openreview.net/forum?id=Ix_mh42xq5w) | ICLR 2022 |  |  |  |  |
+Fawaz et al. | [Data augmentation using synthetic data for time series classification with deep residual networks](https://arxiv.org/abs/1808.02455) |  ArXiv 2018 |  |  |  |  |
+Desai et al. | [TimeVAE: A Variational Auto-Encoder for Multivariate Time Series Generation](https://arxiv.org/abs/2111.08095) | ArXiv 2021 |  |  |  |  |
+Esteban et al. | [Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/abs/1706.02633) | ArXiv 2017 |  |  |  |  |
+Che et al. | [Recurrent Neural Networks for Multivariate Time Series with Missing Values](https://www.nature.com/articles/s41598-018-24271-9) | Nature 2018 |  |  |  |  |
+Ramponi et al. | [T-CGAN: Conditional Generative Adversarial Network for Data Augmentation in Noisy Time Series with Irregular Sampling](https://arxiv.org/abs/1811.08295) |ArXiv 2018  |  |  |  |  |
+Tadayon et al. | [tsBNgen: A Python Library to Generate Time Series Data from an Arbitrary Dynamic Bayesian Network Structure](https://arxiv.org/abs/2009.04595) | ArXiv 2020 |  |  |  |  |
+Ni et al. | [Conditional Sig-Wasserstein GANs for Time Series Generation](https://arxiv.org/abs/2006.05421) | ArXiv 2020 |  |  |  |  |
+Pinceti et al. | [Synthetic Time-Series Load Data via Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9637821) | IEEE 2021 |  |  |  |  |
+Lawrence et al. | [Data Generating Process to Evaluate Causal Discovery Techniques for Time Series Data](https://arxiv.org/abs/2104.08043) | ArXiv 2021 |  |  |  |  |
+Perez et al. | [Data augmentation through multivariate scenario forecasting in Data Centers using Generative Adversarial Networks](https://arxiv.org/abs/2201.06147) | ArXiv 2022 |  |  |  |  |
+Derek Snow | [MTSS-GAN: Multivariate Time Series Simulation Generative Adversarial Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616557) | SSRN 2020 |  |  |  |  |
+Smith et al. | [Conditional GAN for timeseries generation](https://arxiv.org/abs/2006.16477) | ArXiv 2020 |  |  |  |  |
+Pinceti et al. | [Synthetic Time-Series Load Data via Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9637821) | IEEE 2021 |  |  |  |  |
+Xu et al. | [STAN: Synthetic Network Traffic Generation with Generative Neural Models](https://link.springer.com/chapter/10.1007/978-3-030-87839-9_1) | Springer 2021 |  |  |  |  |
+Leznik et al. | [Multivariate Time Series Synthesis Using Generative Adversarial Networks](https://dl.acm.org/doi/abs/10.1145/3427921.3450257) | ACM 2021 |  |  |  |  |
+Forestier et al. | [Generating Synthetic Time Series to Augment Sparse Datasets](https://ieeexplore.ieee.org/abstract/document/8215569?casa_token=PUSMjBd7Wy4AAAAA:bofU2I-usgEYd9P2CdOXHcc0Gt5dRLw6VGKQaHHJ2tRj8IZvXVZ5wLeU75ZA6Iy76r94wYFqKQ) | IEEE 2017 |  |  |  |  |
+
 
 ### 2. Evaluations
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+UCR Lab | [Matrix Profile](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html) |  |  |  |  |  |
+Fauvel et al. | [XCM: An Explainable Convolutional Neural Network for Multivariate Time Series Classification](https://www.mdpi.com/2227-7390/9/23/3137) | MDPI 2021 |  |  |  |  |
+Ismail et al. | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/hash/47a3893cc405396a5c30d91320572d6d-Abstract.html) | NeurIPS 2020 |  |  |  |  |
+Agarwal et al. | [Model Agnostic Time Series Analysis via Matrix Estimation](https://dl.acm.org/doi/abs/10.1145/3287319?casa_token=t8Goi7ihzuEAAAAA:BxECAdjUmrbQC42WTRKXYPO6aK55JSKsufoC7eZjR-Fv_W1zcctW1M61E2Hwhz5hTWxkMHLObRLb) | ACM 2018 |  |  |  |  |
+Harutyunyan et al. | [Efficient Covariance Estimation from Temporal Data](https://arxiv.org/abs/1905.13276) | ArXiv 2019 |  |  |  |  |
 
 ## :four_leaf_clover: Trustworthy Machine Learning 
 ### 1. Training-time Attacks - Poisoning Attacks
