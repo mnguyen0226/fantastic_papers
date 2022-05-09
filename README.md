@@ -6,8 +6,36 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
 
+ ## :four_leaf_clover: Graph Neural Networks
+### 1. Architectures
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+
+### 2. Evaluations
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+
+## :four_leaf_clover: Sequential Models
+### 1. Architectures
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+
+### 2. Evaluations
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+
 ## :four_leaf_clover: Synthetic Time-Series Data Generation
 
+### 1. Architectures
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+ |  |  |  |  |  |  |
+
+### 2. Evaluations
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
@@ -73,7 +101,19 @@ Peri et al. | [Deep k-NN Defense Against Clean-Label Data Poisoning Attacks](htt
 Gao et al. | [STRIP: a defence against trojan attacks on deep neural networks](https://dl.acm.org/doi/abs/10.1145/3359789.3359790?casa_token=IqbL9HJjReAAAAAA:sj_EbbUKG-JMbZh3VclMVzeNl_4R0P2dNOORg0CB268HGH1NPDxq3RAS8qg4NUiolSKXKimtkCMI) | ACM 2019 |  |  |  |  |
 Chou et al. | [SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems](https://arxiv.org/abs/1812.00292) | ArXiv 2018 |  |  |  |  |
 
-### 5. Privacy Attacks - Poisoned Data Detection
+### 5. Robust Mean Estimation in High Dimensions
+
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+Zico Kolter and Aleksander Madry | [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/) | NeurIPS 2018 |  |  |  |  |
+Jerry Li | [Principled Approaches to Robust Machine Learning and Beyond](https://jerryzli.github.io/papers/phd-thesis.pdf) | MIT's Ph.D Thesis 2018 |  |  |  |  |
+Jacob Steinhardt | [Robust Learning: Information Theory and Algorithms](https://www.stat.berkeley.edu/~jsteinhardt/pubs/steinhardt2018thesis.pdf) | Stanford's Ph.D Thesis 2018 |  |  |  |  |
+Zhu et al. | [When does the Tukey Median work?](https://ieeexplore.ieee.org/abstract/document/9173995?casa_token=xAEyUler0lUAAAAA:c5jKyb5HnzURk8GKGU66h4jg_L_Az8ZwVg7lpxWd6mtrfnwGrASSqhNLvkMQ00WIdC0CqI0_-g) | IEEE 2020 |  |  |  |  |
+Diakonikolas et al. | [Sever: A Robust Meta-Algorithm for Stochastic Optimization](https://proceedings.mlr.press/v97/diakonikolas19a.html) | PMLR 2019 |  |  |  |  |
+Tran et al. | [Spectral Signatures in Backdoor Attacks](https://proceedings.neurips.cc/paper/2018/hash/280cf18baf4311c92aa5a042336587d3-Abstract.html) | NeurIPS 2018 |  |  |  |  |
+Abbe et al. | [Poly-time universality and limitations of deep learning](https://arxiv.org/abs/2001.02992) | ArXiv 2020 |  |  |  |  |
+
+### 6. Privacy Attacks - Poisoned Data Detection
 
 *Awesome ML Privacy Attacks Deep-dive: [Github](https://github.com/stratosphereips/awesome-ml-privacy-attacks).
 
@@ -88,7 +128,7 @@ Nasr et al. | [Comprehensive Privacy Analysis of Deep Learning: Passive and Acti
 Carlini et al. | [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://www.usenix.org/conference/usenixsecurity19/presentation/carlini) | USENIX Security Symposium 2019 |  |  |  |  |
 Carlini et al. | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) | USENIX Security Symposium 2022 |  |  |  |  |
 
-### 6. Differential Privacy
+### 7. Differential Privacy
 
 *Awesome ML Differential Privacy Deep-dive: [Github](https://github.com/Billy1900/Awesome-Differential-Privacy).
 
@@ -99,46 +139,7 @@ Abadi et al. | [Deep Learning with Differential Privacy](https://dl.acm.org/doi/
 Papernot et al. | [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755) | ArXiv 2016 |  |  |  |  |
 Papernot et al. | [Scalable Private Learning with PATE](https://arxiv.org/abs/1802.08908) | ArXiv 2018 |  |  |  |  |
 
-### 7. Robust Mean Estimation in High Dimensions
-
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
-Zico Kolter and Aleksander Madry | [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/) | NeurIPS 2018 |  |  |  |  |
-Jerry Li | [Principled Approaches to Robust Machine Learning and Beyond](https://jerryzli.github.io/papers/phd-thesis.pdf) | MIT's Ph.D Thesis 2018 |  |  |  |  |
-Jacob Steinhardt | [Robust Learning: Information Theory and Algorithms](https://www.stat.berkeley.edu/~jsteinhardt/pubs/steinhardt2018thesis.pdf) | Stanford's Ph.D Thesis 2018 |  |  |  |  |
-Zhu et al. | [When does the Tukey Median work?](https://ieeexplore.ieee.org/abstract/document/9173995?casa_token=xAEyUler0lUAAAAA:c5jKyb5HnzURk8GKGU66h4jg_L_Az8ZwVg7lpxWd6mtrfnwGrASSqhNLvkMQ00WIdC0CqI0_-g) | IEEE 2020 |  |  |  |  |
-Diakonikolas et al. | [Sever: A Robust Meta-Algorithm for Stochastic Optimization](https://proceedings.mlr.press/v97/diakonikolas19a.html) | PMLR 2019 |  |  |  |  |
-Tran et al. | [Spectral Signatures in Backdoor Attacks](https://proceedings.neurips.cc/paper/2018/hash/280cf18baf4311c92aa5a042336587d3-Abstract.html) | NeurIPS 2018 |  |  |  |  |
-Abbe et al. | [Poly-time universality and limitations of deep learning](https://arxiv.org/abs/2001.02992) | ArXiv 2020 |  |  |  |  |
-
-### 8. Evasion Attacks & Defenses
-
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
-Akhtar et al. | [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/abstract/document/8294186) | IEEE 2018 |  |  |  |  |
-Athalye et al. | [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](http://proceedings.mlr.press/v80/athalye18a.html) | PMLR 2018 |  |  |  |  |
-Dhillon et al. | [Stochastic Activation Pruning for Robust Adversarial Defense](https://arxiv.org/abs/1803.01442) | ArXiv 2018 |  |  |  |  |
-Schmidt et al. | [Adversarially Robust Generalization Requires More Data](https://proceedings.neurips.cc/paper/2018/hash/f708f064faaf32a43e4d3c784e6af9ea-Abstract.html) | NeurIPS 2018 |  |  |  |  |
-Yin et al. | [Rademacher Complexity for Adversarially Robust Generalization](http://proceedings.mlr.press/v97/yin19b.html) | PMLR 2019 |  |  |  |  |
-Tsipras et al. | [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152) | ArXiv 2018 |  |  |  |  |
-
-### 9. Test-Time Defenses
-
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
-
-### 10. Certified Defenses
-
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
-Lecuyer et al. | [Certified Robustness to Adversarial Examples with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/8835364?casa_token=BgsxdAlduEgAAAAA:cQdNBInOvS-ZeMZcadgtG1e0pArr6R-OWBnX0aeyuRMbqjMBIvNuCnAcnBaRjnBybl-TEN86WA) | IEEE 2019 |  |  |  |  |
-Li et al. | [Certified Adversarial Robustness with Additive Noise](https://proceedings.neurips.cc/paper/2019/hash/335cd1b90bfa4ee70b39d08a4ae0cf2d-Abstract.html) | NeurIPS 2019 |  |  |  |  |
-
-### 11. Federated Learning
+### 8. Federated Learning
 
 *Awesome ML Federated Learning Deep-dive: [Github](https://github.com/poga/awesome-federated-learning).
 
@@ -170,18 +171,41 @@ Sun et al. | [Can You Really Backdoor Federated Learning?](https://arxiv.org/abs
 Andreina et al. | [BaFFLe: Backdoor Detection via Feedback-based Federated Learning](https://ieeexplore.ieee.org/abstract/document/9546463?casa_token=rTpaToMQfwQAAAAA:_w-HPkRDko2IciGmQM4XB31OVqgT-6mAYV6znvDhYZVZwpQYCg2333nCrqrV5WyMQ7KmeMV5rQ) | IEEE 2021 |  |  |  |  |
 Wu et al. | [Mitigating Backdoor Attacks in Federated Learning](https://arxiv.org/abs/2011.01767) | ArXiv 2021 |  |  |  |  |
 
-### 12. Uncertainty Calibration
+### 9. Evasion Attacks & Defenses
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
- |  |  |  |  |  |  |
+Akhtar et al. | [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/abstract/document/8294186) | IEEE 2018 |  |  |  |  |
+Athalye et al. | [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](http://proceedings.mlr.press/v80/athalye18a.html) | PMLR 2018 |  |  |  |  |
+Dhillon et al. | [Stochastic Activation Pruning for Robust Adversarial Defense](https://arxiv.org/abs/1803.01442) | ArXiv 2018 |  |  |  |  |
+Schmidt et al. | [Adversarially Robust Generalization Requires More Data](https://proceedings.neurips.cc/paper/2018/hash/f708f064faaf32a43e4d3c784e6af9ea-Abstract.html) | NeurIPS 2018 |  |  |  |  |
+Yin et al. | [Rademacher Complexity for Adversarially Robust Generalization](http://proceedings.mlr.press/v97/yin19b.html) | PMLR 2019 |  |  |  |  |
+Tsipras et al. | [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152) | ArXiv 2018 |  |  |  |  |
 
-### 13. AI Assurance
+### 10. Certified Defenses
+
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+Lecuyer et al. | [Certified Robustness to Adversarial Examples with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/8835364?casa_token=BgsxdAlduEgAAAAA:cQdNBInOvS-ZeMZcadgtG1e0pArr6R-OWBnX0aeyuRMbqjMBIvNuCnAcnBaRjnBybl-TEN86WA) | IEEE 2019 |  |  |  |  |
+Li et al. | [Certified Adversarial Robustness with Additive Noise](https://proceedings.neurips.cc/paper/2019/hash/335cd1b90bfa4ee70b39d08a4ae0cf2d-Abstract.html) | NeurIPS 2019 |  |  |  |  |
+
+
+### 11. Uncertainty Calibration
+
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+Battleday et al. | [Improving machine classification using human uncertainty measurements](https://openreview.net/forum?id=rJl8BhRqF7) | ICLR 2019 |  |  |  |  |
+Guo et al. | [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html) | PMLR 2017 |  |  |  |  |
+Hendrycks et al. | [The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/ICCV2021/html/Hendrycks_The_Many_Faces_of_Robustness_A_Critical_Analysis_of_Out-of-Distribution_ICCV_2021_paper.html) | ICCV 2021 |  |  |  |  |
+Ren et al. | [Improving Out-of-Distribution Detection in Machine Learning Models](https://ai.googleblog.com/2019/12/improving-out-of-distribution-detection.html) | Google AI Blog |  |  |  |  |
+Larson et al. | [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://arxiv.org/abs/1909.02027) | ArXiv 2019 |  |  |  |  |
+Hendrycks et al. | [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261) | ArXiv 2019 |  |  |  |  |
+Nguyen et al. | [Deep Neural Networks Are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.html) | CVPR 2015 |  |  |  |  |
+Liu et al. | [Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://proceedings.neurips.cc/paper/2020/hash/543e83748234f7cbab21aa0ade66565f-Abstract.html) | NeurIPS 2020 |  |  |  |  |
+Gal et al. | [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html?ref=https://githubhelp.com) | PMLR 2016 |  |  |  |  |
+Lakshminarayanan et al. | [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474) | ArXiv 2016 |  |  |  |  |
+
+### 12. AI Assurance
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
@@ -189,16 +213,6 @@ Batarseh et al. | [A survey on artificial intelligence assurance](https://journa
 
 
 ## :four_leaf_clover: Statistical Methods & Data Analytics 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
-
-## :four_leaf_clover: Representative Learning
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
-
-## :four_leaf_clover: Sequential Learning
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
