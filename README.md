@@ -57,7 +57,7 @@ Hong et al. | [On the Effectiveness of Mitigating Data Poisoning Attacks with Gr
 Ma et al. | [Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics](https://ieeexplore.ieee.org/abstract/document/8812988?casa_token=Fsw5s8_xaYEAAAAA:AK1kks88Bj-xRJn1Xq6aL4IIWxrF1DtuYCb-FaEAMpnMSPJDcH2274DgH4Y2AZZ5OhZZLQ6JBA) | IEEE 2019 |  |  |  |  |
 Borgnia et al. | [Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff](https://ieeexplore.ieee.org/abstract/document/9414862?casa_token=lERRhmQ15WQAAAAA:VBQJNGUHR6bTSN6xy46bS8kKkm2iTAIJWgU22QmWTq3fCJ1XG023wCksKybEnsOtyud2UXO4QA) | IEEE 2021 |  |  |  |  |
 
-### 4. Data Quality & Data Valuation
+### 4. Data Quality, Data Valuation, and Poisoned Data Detection
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
@@ -66,12 +66,25 @@ Jia et al. | [Efficient Task-Specific Data Valuation for Nearest Neighbor Algori
 Ghorbani et al. | [Data Shapley: Equitable Valuation of Data for Machine Learning](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=4390) | ICML 2019 |  |  |  |  |
 Yoon et al. | [Data Valuation using Reinforcement Learning](http://proceedings.mlr.press/v119/yoon20a.html) | PMLR 2020 |  |  |  |  |
 Jia et al. | [Scalability vs. Utility: Do We Have To Sacrifice One for the Other in Data Importance Quantification?](https://openaccess.thecvf.com/content/CVPR2021/html/Jia_Scalability_vs._Utility_Do_We_Have_To_Sacrifice_One_for_CVPR_2021_paper.html) | CVPR 2021 |  |  |  |  |
+Koh et al. | [Stronger data poisoning attacks break data sanitization defenses](https://link.springer.com/article/10.1007/s10994-021-06119-y) | Springer 2021 |  |  |  |  |
+Chen et al. | [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/abs/1811.03728) | ArXiv 2018 |  |  |  |  |
+Peri et al. | [Deep k-NN Defense Against Clean-Label Data Poisoning Attacks](https://link.springer.com/chapter/10.1007/978-3-030-66415-2_4) | Springer 2021 |  |  |  |  |
+Gao et al. | [STRIP: a defence against trojan attacks on deep neural networks](https://dl.acm.org/doi/abs/10.1145/3359789.3359790?casa_token=IqbL9HJjReAAAAAA:sj_EbbUKG-JMbZh3VclMVzeNl_4R0P2dNOORg0CB268HGH1NPDxq3RAS8qg4NUiolSKXKimtkCMI) | ACM 2019 |  |  |  |  |
+Chou et al. | [SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems](https://arxiv.org/abs/1812.00292) |  |  |  |  |  |
 
-### 5. Privacy Attacks
+### 5. Privacy Attacks - Poisoned Data Detection
+
+*Awesome ML Privacy Attacks Deep-dive: [Github](https://github.com/stratosphereips/awesome-ml-privacy-attacks).
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+ |  |  |  |  |  |  |
+
 
 ### 6. Different Privacy
 
@@ -123,6 +136,13 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
+
+### 13. AI Assurance
+
+Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
+--- | --- | --- | --- |--- |--- |--- |
+Batarseh et al. | [A survey on artificial intelligence assurance](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00445-7) | Springer 2021 |  |  |  |  |
+
 
 ## :four_leaf_clover: Statistical Methods & Data Analytics 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
