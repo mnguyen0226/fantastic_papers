@@ -2,14 +2,14 @@
 
 <!-- Format: Author, Name of Papers, Conference/Year, Code, Presentaion Slide, Understanding 1, Understand 2 -->
 
-## Deep Learning Fundamentals Papers
+## Deep Learning Fundamentals
 
-## Trustworthy Machine Learning Papers in Computer Vision
+## Trustworthy Machine Learning in Computer Vision
 ### 1. Poisoning Attacks
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Author | Title | Conference | Code | Presentation Slide | Understanding 1 | Understanding 2 |
+--- | --- | --- | --- |--- |--- |--- |
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 |
 
 ### 2. Backdoor Attacks
 
@@ -33,6 +33,6 @@ Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 ### 12. Uncertainty Calibration
 
-## Synthetic Data Generation Papers
+## Synthetic Data Generation
 
-## Software Engineering Papers
+## Software Engineering
