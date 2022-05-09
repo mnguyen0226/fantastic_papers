@@ -27,7 +27,8 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 ### 1. Architectures
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
- |  |  |  |  |  |  |
+Yoon et al. | [Time-series Generative Adversarial Networks](https://proceedings.neurips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html) | NeurIPS 2019 |  |  |  |  |
+Alaa et al. | [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA) | ICLR 2021 |  |  |  |  |
 
 ### 2. Evaluations
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
@@ -234,7 +235,17 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 - [Deep Learning Bibliography](https://github.com/memkite/DeepLearningBibliography)
 - [Deep Learning for NLP](https://github.com/andrewt3000/DL4NLP)
 - [List of Speech and NLP](https://joshdotai.medium.com/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
+- [100 Must-read Papers on NLP](https://github.com/mhagiwara/100-nlp-papers)
 - [Awesome RNN Papers](https://github.com/kjw0612/awesome-rnn)
 - [Awesome Deep Learning Papers](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [Lists of Optimization Techniques](https://paperswithcode.com/methods/category/stochastic-optimization)
+- [Lists of Optimization Techniques Papers](https://paperswithcode.com/methods/category/stochastic-optimization)
 - [Awesome GAN](https://github.com/nightrome/really-awesome-gan)
+- [A School for all Seasons on Trustworthy Machine Learning](https://trustworthy-machine-learning.github.io/)
+- [Awesome Deep Trading](https://github.com/firmai/awesome-deep-trading)
+- [Awesome AI in Finance](https://github.com/firmai/awesome-ai-in-finance)
+- [Awesome Quant](https://github.com/firmai/awesome-quant)
+- [List of Van Der Shaar Lab](https://github.com/firmai/tsgan)
+- List of GNN: [Lectures](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html), [Papers](https://pytorch-geometric.readthedocs.io/en/latest/notes/resources.html)
+- [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers)
+- [Deep RL Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+- [Awesome RL Papers](https://github.com/aikorea/awesome-rl)
