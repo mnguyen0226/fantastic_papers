@@ -88,7 +88,8 @@ Nasr et al. | [Comprehensive Privacy Analysis of Deep Learning: Passive and Acti
 Carlini et al. | [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://www.usenix.org/conference/usenixsecurity19/presentation/carlini) | USENIX Security Symposium 2019 |  |  |  |  |
 Carlini et al. | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) | USENIX Security Symposium 2022 |  |  |  |  |
 
-### 6. Different Privacy
+### 6. Differential Privacy
+*Awesome ML Differential Privacy Deep-dive: [Github](https://github.com/Billy1900/Awesome-Differential-Privacy).
 
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
@@ -171,3 +172,6 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 --- | --- | --- | --- |--- |--- |--- |
  |  |  |  |  |  |  |
+
+## References
+
