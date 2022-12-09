@@ -14,8 +14,8 @@
 * PyG: [Lectures](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
 
 ### 1. Architectures
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- | 
 Veličković et al. | [Graph Attention Networks](https://arxiv.org/abs/1710.10903) | ArXiv 2017 |  |  |  |  |
 Kipf et al. | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) | ArXiv 2016 |  |  |  |  |
 Hamilton et al. | [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216) | ArXiv 2017 |  |  |  |  |
@@ -23,26 +23,26 @@ Rossi et al. | [Temporal Graph Networks for Deep Learning on Dynamic Graphs](htt
 Chami et al. | [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) | ArXiv 2019 |  |  |  |  |
 
 ### 2. Evaluations
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Sanchez-Lengeling et al. | [Evaluating Attribution for Graph Neural Networks](https://papers.nips.cc/paper/2020/hash/417fbbf2e9d5a28a855a11894b2e795a-Abstract.html) | NeurIPS 2020 |  |  |  |  |
 
 ## :four_leaf_clover: Sequential Models
 ### 1. Architectures
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Vaswani et al. | [Attention is All you Need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | NeurIPS 2017 |  |  |  |  |
 
 ### 2. Evaluations
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- | 
 Chefer et al. | [Transformer Interpretability Beyond Attention Visualization](https://openaccess.thecvf.com/content/CVPR2021/html/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.html) | CVPR 2021 |  |  |  |  |
 
 ## :four_leaf_clover: Synthetic Time-Series Data Generation
 
 ### 1. Architectures
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Lin et al. | [Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions](https://dl.acm.org/doi/abs/10.1145/3419394.3423643) | ACM 2020 |  |  |  |  |
 Yoon et al. | [Time-series Generative Adversarial Networks](https://proceedings.neurips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html) | NeurIPS 2019 |  |  |  |  |
 Alaa et al. | [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA) | ICLR 2021 |  |  |  |  |
@@ -66,8 +66,8 @@ Forestier et al. | [Generating Synthetic Time Series to Augment Sparse Datasets]
 
 
 ### 2. Evaluations
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 UCR Lab | [Matrix Profile](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html) |  |  |  |  |  |
 Fauvel et al. | [XCM: An Explainable Convolutional Neural Network for Multivariate Time Series Classification](https://www.mdpi.com/2227-7390/9/23/3137) | MDPI 2021 |  |  |  |  |
 Ismail et al. | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/hash/47a3893cc405396a5c30d91320572d6d-Abstract.html) | NeurIPS 2020 |  |  |  |  |
@@ -77,8 +77,8 @@ Harutyunyan et al. | [Efficient Covariance Estimation from Temporal Data](https:
 ## :four_leaf_clover: Trustworthy Machine Learning 
 ### 1. Training-time Attacks - Poisoning Attacks
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Solans et al. | [Poisoning Attacks on Algorithmic Fairness](https://link.springer.com/chapter/10.1007/978-3-030-67658-2_10) | Springer 2020 |  |  |  |  |
 Li et al. | [Data poisoning attacks on factorization-based collaborative filtering](https://proceedings.neurips.cc/paper/2016/hash/83fa5a432ae55c253d0e60dbfa716723-Abstract.html) | NeurIPS 2016 |  |  |  |  |
 Huang et al. | [Metapoison: Practical general-purpose clean-label data poisoning](https://proceedings.neurips.cc/paper/2020/hash/8ce6fc704072e351679ac97d4a985574-Abstract.html) | NeurIPS 2020 |  |  |  |  |
@@ -93,8 +93,8 @@ Yao et al. | [Latent Backdoor Attacks on Deep Neural Networks](https://dl.acm.or
 
 ### 2. Training-time Attacks - Backdoor Attacks
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Turner et al. | [Label-Consistent Backdoor Attacks](https://arxiv.org/abs/1912.02771) | ArXiv 2019 |  |  |  |  |
 Chen et al. | [Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.org/abs/1712.05526) | ArXiv 2017 |  |  |  |  |
 Gu et al. | [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733) | ArXiv 2019 |  |  |  |  |
@@ -108,8 +108,8 @@ Saha et al. | [Hidden Trigger Backdoor Attacks](https://ojs.aaai.org/index.php/A
 
 ### 3. Training-time Data Poisoning Defenses
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Wang et al | [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://ieeexplore.ieee.org/abstract/document/8835365?casa_token=czPHUrjctSgAAAAA:8HwtzpqgYvZ8lwtJAEltcf1YQ2A5rDB0fycsCRkv5JyAW8I03f0TyIgeH_0t2F9-uJkrrsEkKw) | IEEE 2019 |  |  |  |  |
 Chen et al. | [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](http://www.aceslab.org/sites/default/files/DeepInspect.pdf) | IJCAI 2019 |  |  |  |  |
 Guo et al. | [TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.org/abs/1908.01763) | ArXiV 2019 |  |  |  |  |
@@ -122,8 +122,8 @@ Borgnia et al. | [DP-InstaHide: Provably Defusing Poisoning and Backdoor Attacks
 
 ### 4. Data Quality, Data Valuation, and Poisoned Data Detection
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Jia et al. | [Towards Efficient Data Valuation Based on the Shapley Value](https://proceedings.mlr.press/v89/jia19a.html) | PMLR 2019 |  |  |  |  |
 Jia et al. | [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619) | VLDB 2019 |  |  |  |  |
 Ghorbani et al. | [Data Shapley: Equitable Valuation of Data for Machine Learning](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=4390) | ICML 2019 |  |  |  |  |
@@ -137,8 +137,8 @@ Chou et al. | [SentiNet: Detecting Localized Universal Attacks Against Deep Lear
 
 ### 5. Robust Mean Estimation in High Dimensions
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Zico Kolter and Aleksander Madry | [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/) | NeurIPS 2018 |  |  |  |  |
 Jerry Li | [Principled Approaches to Robust Machine Learning and Beyond](https://jerryzli.github.io/papers/phd-thesis.pdf) | MIT's Ph.D Thesis 2018 |  |  |  |  |
 Jacob Steinhardt | [Robust Learning: Information Theory and Algorithms](https://www.stat.berkeley.edu/~jsteinhardt/pubs/steinhardt2018thesis.pdf) | Stanford's Ph.D Thesis 2018 |  |  |  |  |
@@ -151,8 +151,8 @@ Abbe et al. | [Poly-time universality and limitations of deep learning](https://
 
 * Awesome ML Privacy Attacks Deep-dive: [Github](https://github.com/stratosphereips/awesome-ml-privacy-attacks).
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Fredrikson et al. | [Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/fredrikson_matthew) | USENIX Security Symposium 2014 |  |  |  |  |
 Fredrikson et al. | [Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://dl.acm.org/doi/abs/10.1145/2810103.2813677) | ACM 2015 |  |  |  |  |
 Zhang & Jia et al. | [The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.html) | CVPR 2020 |  |  |  |  |
@@ -166,8 +166,8 @@ Carlini et al. | [Extracting Training Data from Large Language Models](https://w
 
 * Awesome ML Differential Privacy Deep-dive: [Github](https://github.com/Billy1900/Awesome-Differential-Privacy).
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Aaron Roth and Cynthia Dwork | [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) | University of Pennsylvania's Book |  |  |  |  |
 Abadi et al. | [Deep Learning with Differential Privacy](https://dl.acm.org/doi/abs/10.1145/2976749.2978318?casa_token=04AV26T6VT4AAAAA:LjK85DNm0rJ-lk0S2VDwtmAnHuIBVyKMYeU89wucbz6abzM8tDygrgWjI1ZzdQNUEvcKpW4nEMeb) | ACM 2016 |  |  |  |  |
 Papernot et al. | [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755) | ArXiv 2016 |  |  |  |  |
@@ -177,8 +177,8 @@ Papernot et al. | [Scalable Private Learning with PATE](https://arxiv.org/abs/18
 
 * Awesome ML Federated Learning Deep-dive: [Github](https://github.com/poga/awesome-federated-learning).
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 McMahan et al. | [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a.html) | PMLR 2017 |  |  |  |  |
 Konečný et al. | [Federated Optimization:Distributed Optimization Beyond the Datacenter](https://arxiv.org/abs/1511.03575) | ArXiv 2015 |  |  |  |  |
 Stich et al. | [Local SGD Converges Fast and Communicates Little](https://arxiv.org/abs/1805.09767) | ICLR 2018 |  |  |  |  |
@@ -207,8 +207,8 @@ Wu et al. | [Mitigating Backdoor Attacks in Federated Learning](https://arxiv.or
 
 ### 9. Evasion Attacks & Defenses
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Akhtar et al. | [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/abstract/document/8294186) | IEEE 2018 |  |  |  |  |
 Athalye et al. | [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](http://proceedings.mlr.press/v80/athalye18a.html) | PMLR 2018 |  |  |  |  |
 Dhillon et al. | [Stochastic Activation Pruning for Robust Adversarial Defense](https://arxiv.org/abs/1803.01442) | ArXiv 2018 |  |  |  |  |
@@ -218,15 +218,15 @@ Tsipras et al. | [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs
 
 ### 10. Certified Defenses
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Lecuyer et al. | [Certified Robustness to Adversarial Examples with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/8835364?casa_token=BgsxdAlduEgAAAAA:cQdNBInOvS-ZeMZcadgtG1e0pArr6R-OWBnX0aeyuRMbqjMBIvNuCnAcnBaRjnBybl-TEN86WA) | IEEE 2019 |  |  |  |  |
 Li et al. | [Certified Adversarial Robustness with Additive Noise](https://proceedings.neurips.cc/paper/2019/hash/335cd1b90bfa4ee70b39d08a4ae0cf2d-Abstract.html) | NeurIPS 2019 |  |  |  |  |
 
 ### 11. Uncertainty Calibration
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Battleday et al. | [Improving machine classification using human uncertainty measurements](https://openreview.net/forum?id=rJl8BhRqF7) | ICLR 2019 |  |  |  |  |
 Guo et al. | [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html) | PMLR 2017 |  |  |  |  |
 Hendrycks et al. | [The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/ICCV2021/html/Hendrycks_The_Many_Faces_of_Robustness_A_Critical_Analysis_of_Out-of-Distribution_ICCV_2021_paper.html) | ICCV 2021 |  |  |  |  |
@@ -240,27 +240,27 @@ Lakshminarayanan et al. | [Simple and Scalable Predictive Uncertainty Estimation
 
 ### 12. AI Assurance
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Batarseh et al. | [A survey on artificial intelligence assurance](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00445-7) | Springer 2021 |  |  |  |  |
 
 ## :four_leaf_clover: Optimization Techniques
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Kingma et al. | [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) | ArXiv 2014 |  |  |  |  |
 
 ## :four_leaf_clover: Statistical Methods & Data Analytics 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
 Leys et al. | [Detecting multivariate outliers: Use a robust variant of the Mahalanobis distance](https://www.sciencedirect.com/science/article/pii/S0022103117302123?casa_token=kwb8CNYxogEAAAAA:lLzNB1LvVzgUFNaWSDZHGJfwJyfb_2kZcoU8Jua1TALOq4dJXn18IdsZ43A046auw803XghETA) | Elsevier 2018 |  |  |  |  |
 
 ## :four_leaf_clover: Reinforcement Learning
 
 * [Awesome RL Papers](https://github.com/aikorea/awesome-rl)
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- | 
  |  |  |  |  |  |  |
 
 ## :four_leaf_clover: Software Engineering
@@ -268,8 +268,8 @@ Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
 * [Paper We Love (PWL) Conference](https://pwlconf.org/)
 * [List of SWE Conferences](https://research.com/conference-rankings/computer-science/software-programming)
 
-Author | Title | Publication | Code | Slide | Attempt 1 | Attempt 2 |
---- | --- | --- | --- |--- |--- |--- |
+Author | Title | Publication |
+--- | --- | --- |
  |  |  |  |  |  |  |
 
 ## Other Awesome Lists
